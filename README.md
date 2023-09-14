@@ -16,7 +16,7 @@ This repository is organized as follows:
 
 1. **Notebooks**: This directory contains all Jupyter notebooks that provide the code implementations of the various techniques used in the research.
 
-2. **Data**: This directory contains the datasets used in the research. We've used one of the largest publicly available whole building energy datasets for our study.
+2. **Data**: Due to the constraints posed by the Github platform, the dataset used in our research is not provided here. Nevertheless, the energy dataset (including meter data, metadata, and weather data) could be found on [Kaggle website](https://www.kaggle.com/competitions/ashrae-energy-prediction/data) or [BDG2 Github repository](https://github.com/buds-lab/building-data-genome-project-2). Additionally, the labeled anomalies in meter readings can be found in the [repository of winning teams' solution](https://github.com/buds-lab/ashrae-great-energy-predictor-3-solution-analysis/blob/master/solutions/rank-1/input/bad_meter_readings.zip).
 
 ## License
 
