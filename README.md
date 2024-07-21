@@ -21,3 +21,17 @@ This repository is organized as follows:
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+## Citation
+If you use this code or our findings in your research, please cite our paper:
+
+```bibtex
+@article{fu2024filling,
+  title={Filling time-series gaps using image techniques: Multidimensional context autoencoder approach for building energy data imputation},
+  author={Fu, Chun and Quintana, Matias and Nagy, Zoltan and Miller, Clayton},
+  journal={Applied Thermal Engineering},
+  volume={236},
+  pages={121545},
+  year={2024},
+  publisher={Elsevier}
+}
